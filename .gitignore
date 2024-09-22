@@ -2,7 +2,7 @@
 ## Eclipse
 #################
 
-_build/
+# _build/
 
 *.pydevproject
 .project

@@ -1,11 +1,11 @@
 # Fdb version 4
-["makeindex book.idx"] 1726999837.49482 "book.idx" "book.ind" "book" 1726999856.98291 0
-  "book.idx" 1726999841 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex book.idx"] 1727171569.71372 "book.idx" "book.ind" "book" 1727171698.01663 0
+  "book.idx" 1727171688 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "book.ilg"
   "book.ind"
   (rewritten before read)
-["pdflatex"] 1726999838.30702 "f:/Edata/program_language/git_ln/design_patterns/_build/latex/book.tex" "book.pdf" "book" 1726999856.98379 0
+["pdflatex"] 1727171685.53552 "f:/Edata/program_language/git_ln/design_patterns/_build/latex/book.tex" "book.pdf" "book" 1727171698.01755 0
   "AbatractFactory.jpg" 1726896407 56351 761d11a02c444ec6582526380493ebb0 ""
   "AbatractFactory_run.jpg" 1726896407 15185 ce4ecb268244b5c04d032da5c5c12dfa ""
   "Adapter.jpg" 1726896407 24090 8e5060e7534692429cf27c12b5e488e5 ""
@@ -444,12 +444,12 @@
   "State_run.jpg" 1726896407 34190 8747ede64d0dbefcb7bc3c7ab78d2ff5 ""
   "Strategy.jpg" 1726896407 27512 00fb75d3b6a2ed2964b11d813bcc7681 ""
   "Strategy_run.jpg" 1726896407 21552 eecfbee80d0ec99602eeb1675f6b5ffc ""
-  "book.aux" 1726999853 76488 1fe884bf753c35018e7cd601f7c9ec65 "pdflatex"
-  "book.ind" 1726999838 0 d41d8cd98f00b204e9800998ecf8427e "makeindex book.idx"
-  "book.out" 1726999853 22709 9204bf72f14aa68d0232fbb9f62cb65f "pdflatex"
-  "book.tex" 1726997994 338093 03fc5ca35f5e030f9050e913498760bf ""
-  "book.toc" 1726999853 19718 8de899dfa4231b6ef1cbd03178d65093 "pdflatex"
-  "f:/Edata/program_language/git_ln/design_patterns/_build/latex/book.tex" 1726997994 338093 03fc5ca35f5e030f9050e913498760bf ""
+  "book.aux" 1727171695 76488 1fe884bf753c35018e7cd601f7c9ec65 "pdflatex"
+  "book.ind" 1727171614 0 d41d8cd98f00b204e9800998ecf8427e "makeindex book.idx"
+  "book.out" 1727171695 22709 9204bf72f14aa68d0232fbb9f62cb65f "pdflatex"
+  "book.tex" 1727171684 338093 ff07a2dc8ad1193cadab41ef650361fd ""
+  "book.toc" 1727171695 19718 8de899dfa4231b6ef1cbd03178d65093 "pdflatex"
+  "f:/Edata/program_language/git_ln/design_patterns/_build/latex/book.tex" 1727171684 338093 ff07a2dc8ad1193cadab41ef650361fd ""
   "loger.jpg" 1726896407 55366 84eef1516aae28396c42be4a0cdb6f0b ""
   "seq_AbatractFactory.jpg" 1726896407 53159 2adb6283a2f02f51122148bdf7f9098b ""
   "seq_Adapter.jpg" 1726896407 19878 4e99d0538373500db67e0fed52c88f1f ""
@@ -473,7 +473,7 @@
   "seq_Strategy.jpg" 1726896407 37478 8dfe5bd54240a0f333dd7a811f661a69 ""
   "seq_loger.jpg" 1726896407 32848 cbc4db6d779ae5fedef68e648349603c ""
   "sphinx.sty" 1726932624 50659 6d393be3f369a7862f0b19a359f1ab89 ""
-  "sphinxhighlight.sty" 1726934106 7683 83fb52292c17957d9f4aadcb28c57a87 ""
+  "sphinxhighlight.sty" 1727170965 7683 83fb52292c17957d9f4aadcb28c57a87 ""
   "sphinxlatexadmonitions.sty" 1726932624 18222 f3bfd316b630ed188fcc20bf320acafe ""
   "sphinxlatexcontainers.sty" 1726932624 901 d3a3a1b7b2547f47ade2499350b5c420 ""
   "sphinxlatexgraphics.sty" 1726932624 4840 a9578332b6f3b35e198751fb632c9b79 ""
@@ -488,7 +488,7 @@
   "sphinxlatexstyletext.sty" 1726932624 6881 543f3cecccc7dccac396b5720cccf443 ""
   "sphinxlatextables.sty" 1726932624 57644 2253ce149b29042948a000d2dbf50b50 ""
   "sphinxmanual.cls" 1726932624 4241 7b0d7a37df7b5715fb0dbd585c52ecdb ""
-  "sphinxmessages.sty" 1726934107 765 3f5fcd6cdd7964ed608767954a8ced6f ""
+  "sphinxmessages.sty" 1727170966 765 3f5fcd6cdd7964ed608767954a8ced6f ""
   "sphinxoptionsgeometry.sty" 1726932624 2061 47bb34b8ed8a78823eb0c886abfb9f4d ""
   "sphinxoptionshyperref.sty" 1726932624 1094 79beb8b8a3f10784f8cce804e0f9d3aa ""
   "sphinxpackageboxes.sty" 1726932624 36106 1be2053eb1cb9b083b3a75e3657bcb24 ""

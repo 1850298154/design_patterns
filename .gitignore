@@ -1,3 +1,7 @@
+
+_build/
+output_doxygen/
+
 #################
 ## Eclipse
 #################
